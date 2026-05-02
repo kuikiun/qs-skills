@@ -5,6 +5,21 @@ description: ACMM Vol 2 element reference for Finishes and Fittings (elements 12
 
 # ACMM Vol 2 — Finishes & Fittings (12–16)
 
+## Strict application — no inferring or guessing
+
+When applying this skill to QS work:
+
+- Apply **only** rules explicitly stated in this skill or in the cited source standard.
+- Do **not** infer, interpolate, or guess rules that aren't explicit.
+- If a situation isn't covered by an explicit rule, **stop and flag it** to the user — don't assume by analogy, "common practice," or what seems obvious.
+- Quote the rule number (e.g. `M3`, `P1`, `D2`) when applying a rule so the user can verify against the source.
+- If contract documents conflict with the standard, contract documents prevail (per the standard's own override rules) — but state the deviation explicitly in the BOQ / cost plan / cost analysis output for the user's review.
+- For anything not covered by an explicit rule, refer the user to the source PDF and ask which rule to apply — do not make one up.
+
+This directive applies to every skill in qs-skills.
+
+---
+
 This skill covers elements 12–16. For Substructure/Superstructure see `acmm-elements-substructure-superstructure`. For services see `acmm-elements-services`.
 
 **General note re Finishes:** where a finish incorporates special formwork, only the cost **extra over** rough formwork is in the finish. Rough formwork is part of structure. Whole cost of special formwork in the one sub-element only where finish is in structure (e.g. external wall finish) or where concept of finish doesn't apply (e.g. smooth forms to slab soffit concealed by false ceiling).

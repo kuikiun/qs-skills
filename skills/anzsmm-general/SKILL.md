@@ -5,6 +5,21 @@ description: General rules, units, billing conventions, and terminology for meas
 
 # ANZSMM 2018 — General Rules
 
+## Strict application — no inferring or guessing
+
+When applying this skill to QS work:
+
+- Apply **only** rules explicitly stated in this skill or in the cited source standard.
+- Do **not** infer, interpolate, or guess rules that aren't explicit.
+- If a situation isn't covered by an explicit rule, **stop and flag it** to the user — don't assume by analogy, "common practice," or what seems obvious.
+- Quote the rule number (e.g. `M3`, `P1`, `D2`) when applying a rule so the user can verify against the source.
+- If contract documents conflict with the standard, contract documents prevail (per the standard's own override rules) — but state the deviation explicitly in the BOQ / cost plan / cost analysis output for the user's review.
+- For anything not covered by an explicit rule, refer the user to the source PDF and ask which rule to apply — do not make one up.
+
+This directive applies to every skill in qs-skills.
+
+---
+
 The Australian and New Zealand Standard Method of Measurement of Building Works (ANZSMM, 2018 Edition) is the joint trans-Tasman standard for measuring building works in Bills of Quantities (BOQ) — called Schedule of Quantities in NZ. It supersedes ASMM6 (Australia) and NZS 4202 (NZ).
 
 This skill captures the foundational rules from §1 ("Introduction, General Rules and Recommendations"). All trade-specific skills (`anzsmm-substructure`, `anzsmm-structure`, etc.) inherit these rules.

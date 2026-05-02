@@ -5,6 +5,21 @@ description: Pre-construction cost management under ACMM Vol 1 §2 — cost budg
 
 # ACMM Vol 1 §2 — Pre-Construction Cost Management
 
+## Strict application — no inferring or guessing
+
+When applying this skill to QS work:
+
+- Apply **only** rules explicitly stated in this skill or in the cited source standard.
+- Do **not** infer, interpolate, or guess rules that aren't explicit.
+- If a situation isn't covered by an explicit rule, **stop and flag it** to the user — don't assume by analogy, "common practice," or what seems obvious.
+- Quote the rule number (e.g. `M3`, `P1`, `D2`) when applying a rule so the user can verify against the source.
+- If contract documents conflict with the standard, contract documents prevail (per the standard's own override rules) — but state the deviation explicitly in the BOQ / cost plan / cost analysis output for the user's review.
+- For anything not covered by an explicit rule, refer the user to the source PDF and ask which rule to apply — do not make one up.
+
+This directive applies to every skill in qs-skills.
+
+---
+
 The Australian Cost Management Manual (ACMM) is the AIQS-published methodology for managing project cost from brief through final account. Volume 1 §2 covers everything **before** the contract is let.
 
 ## §2.1 Cost Budgeting — purpose

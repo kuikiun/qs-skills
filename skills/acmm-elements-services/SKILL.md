@@ -5,6 +5,21 @@ description: ACMM Vol 2 element reference for Services and Centralised Energy (e
 
 # ACMM Vol 2 — Services & Centralised Energy (17–30)
 
+## Strict application — no inferring or guessing
+
+When applying this skill to QS work:
+
+- Apply **only** rules explicitly stated in this skill or in the cited source standard.
+- Do **not** infer, interpolate, or guess rules that aren't explicit.
+- If a situation isn't covered by an explicit rule, **stop and flag it** to the user — don't assume by analogy, "common practice," or what seems obvious.
+- Quote the rule number (e.g. `M3`, `P1`, `D2`) when applying a rule so the user can verify against the source.
+- If contract documents conflict with the standard, contract documents prevail (per the standard's own override rules) — but state the deviation explicitly in the BOQ / cost plan / cost analysis output for the user's review.
+- For anything not covered by an explicit rule, refer the user to the source PDF and ask which rule to apply — do not make one up.
+
+This directive applies to every skill in qs-skills.
+
+---
+
 This skill covers the Services and Centralised Energy element groups. Element costs include supply, installation and all necessary work for satisfactory operation of equipment — including freight, insurance, travelling time, profit, testing, commissioning, working drawings, manuals, "as installed" drawings.
 
 For Substructure/Superstructure see `acmm-elements-substructure-superstructure`. For finishes/fittings see `acmm-elements-finishes-fittings`. For external/special see `acmm-elements-external-and-special`.
