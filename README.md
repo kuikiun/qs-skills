@@ -17,7 +17,7 @@ Ten skills covering the ANZSMM. Each lives in `skills/<skill-name>/SKILL.md` and
 | [anzsmm-envelope](skills/anzsmm-envelope/SKILL.md) | Roofing (membranes, sheet, tile/slate, flashings, gutters, downpipes), Facade Systems (proprietary, composite, curtain walling), Windows, Glazing, Doors | §16–19, §24 |
 | [anzsmm-interior](skills/anzsmm-interior/SKILL.md) | Carpentry (structural timbers, trusses, linings, panelling, stairs), Partitions (metal/composite/acoustic/fire-rated/modular/cubicle/operable), Suspended Ceilings, Access Floors, Hardware | §20–23, §25 |
 | [anzsmm-finishes](skills/anzsmm-finishes/SKILL.md) | Applied Finishes / Render / Textured (in-situ, plasterboard, fibrous plaster, metal lathing), Tiling/Slab/Paving, Carpet & Resilient Finishes, Painting (incl. paper/vinyl/fabric hanging) | §26–29 |
-| [anzsmm-joinery-ffe](skills/anzsmm-joinery-ffe/SKILL.md) | Joinery (lockers, cabinets, fitted shelving, custom cabinetry), Furniture/Fittings/Equipment (proprietary, equipment, curtains/blinds, manchester, artwork) | §30, §31 |
+| [anzsmm-joinery](skills/anzsmm-joinery/SKILL.md) | Joinery (lockers, cabinets, fitted shelving, custom cabinetry), Furniture/Fittings/Equipment (proprietary, equipment, curtains/blinds, manchester, artwork) | §30, §31 |
 | [anzsmm-services](skills/anzsmm-services/SKILL.md) | Hydraulics, Drainage, Electrical Installations, Mechanical Installations, Transportation Services (lifts/escalators), Fire Protection | §32–36, §38 |
 | [anzsmm-exterior](skills/anzsmm-exterior/SKILL.md) | Exterior Elements (Landscaping, Roadworks), Included Sums (Contingency, Provisional, PC) | §37, §39 |
 
@@ -33,7 +33,7 @@ qs-skills/
 │   ├── anzsmm-envelope/
 │   ├── anzsmm-interior/
 │   ├── anzsmm-finishes/
-│   ├── anzsmm-joinery-ffe/
+│   ├── anzsmm-joinery/
 │   ├── anzsmm-services/
 │   └── anzsmm-exterior/
 ├── docs/                                # source materials (gitignored — see docs/README.md)

@@ -1,5 +1,5 @@
 ---
-name: anzsmm-joinery-ffe
+name: anzsmm-joinery
 description: Measurement rules for Joinery (§30 lockers, cabinets, shelving, benches, fittings to special design) and Furniture, Fittings & Equipment (§31 proprietary furniture, medical/kitchen/AV/sports equipment, curtains/blinds, soft furnishing, artwork) under ANZSMM 2018. Use when measuring or pricing fitted joinery (kitchens, vanities, fitted shelving, custom cabinetry), proprietary FF&E, equipment, curtains, blinds, or artwork installation.
 ---
 
