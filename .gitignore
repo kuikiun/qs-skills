@@ -14,7 +14,7 @@ desktop.ini
 .claude/shell-snapshots/
 .claude/session-env/
 
-# Source materials that shouldn't be redistributed
-# (uncomment if your reference book is copyrighted and you don't want to push it)
-# docs/source-book/
-# docs/*.pdf
+# Source materials are copyrighted — keep them local only.
+# The skills paraphrase the rules; users acquire the official PDF themselves.
+docs/*.pdf
+docs/*.txt
