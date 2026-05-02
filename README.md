@@ -113,3 +113,24 @@ The source PDFs are git-ignored — see `docs/README.md` for sourcing instructio
 1. Edit `skills/<skill-name>/SKILL.md`.
 2. Commit and push.
 3. On other machines: `git pull`.
+
+## Versioning
+
+The repo is versioned at the **repository level** using annotated git tags following [semver](https://semver.org). A new version corresponds to a GitHub Release.
+
+| Bump | When |
+|---|---|
+| **MAJOR** (1.0.0) | A skill is renamed or removed; a structural change that breaks downstream pulls (e.g. moving a skill into a different folder, changing the `name:` field) |
+| **MINOR** (0.x.0) | A new skill is added; a non-breaking expansion of an existing skill |
+| **PATCH** (0.0.x) | Content fix to an existing skill (clarification, typo, missing rule, updated cross-reference) |
+
+To create a new release:
+
+```bash
+git tag -a v0.2.0 -m "Brief release note"
+git push origin v0.2.0
+```
+
+Released versions: see [https://github.com/kuikiun/qs-skills/tags](https://github.com/kuikiun/qs-skills/tags).
+
+Current version: **v0.1.0** — initial release with 19 skills.
